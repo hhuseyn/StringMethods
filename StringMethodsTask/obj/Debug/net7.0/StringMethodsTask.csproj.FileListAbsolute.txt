@@ -1,0 +1,15 @@
+C:\Users\Huseyn\Desktop\C#\ClassroomTask\StringMethodsTask\StringMethodsTask\bin\Debug\net7.0\StringMethodsTask.exe
+C:\Users\Huseyn\Desktop\C#\ClassroomTask\StringMethodsTask\StringMethodsTask\bin\Debug\net7.0\StringMethodsTask.deps.json
+C:\Users\Huseyn\Desktop\C#\ClassroomTask\StringMethodsTask\StringMethodsTask\bin\Debug\net7.0\StringMethodsTask.runtimeconfig.json
+C:\Users\Huseyn\Desktop\C#\ClassroomTask\StringMethodsTask\StringMethodsTask\bin\Debug\net7.0\StringMethodsTask.dll
+C:\Users\Huseyn\Desktop\C#\ClassroomTask\StringMethodsTask\StringMethodsTask\bin\Debug\net7.0\StringMethodsTask.pdb
+C:\Users\Huseyn\Desktop\C#\ClassroomTask\StringMethodsTask\StringMethodsTask\obj\Debug\net7.0\StringMethodsTask.csproj.AssemblyReference.cache
+C:\Users\Huseyn\Desktop\C#\ClassroomTask\StringMethodsTask\StringMethodsTask\obj\Debug\net7.0\StringMethodsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyn\Desktop\C#\ClassroomTask\StringMethodsTask\StringMethodsTask\obj\Debug\net7.0\StringMethodsTask.AssemblyInfoInputs.cache
+C:\Users\Huseyn\Desktop\C#\ClassroomTask\StringMethodsTask\StringMethodsTask\obj\Debug\net7.0\StringMethodsTask.AssemblyInfo.cs
+C:\Users\Huseyn\Desktop\C#\ClassroomTask\StringMethodsTask\StringMethodsTask\obj\Debug\net7.0\StringMethodsTask.csproj.CoreCompileInputs.cache
+C:\Users\Huseyn\Desktop\C#\ClassroomTask\StringMethodsTask\StringMethodsTask\obj\Debug\net7.0\StringMethodsTask.dll
+C:\Users\Huseyn\Desktop\C#\ClassroomTask\StringMethodsTask\StringMethodsTask\obj\Debug\net7.0\refint\StringMethodsTask.dll
+C:\Users\Huseyn\Desktop\C#\ClassroomTask\StringMethodsTask\StringMethodsTask\obj\Debug\net7.0\StringMethodsTask.pdb
+C:\Users\Huseyn\Desktop\C#\ClassroomTask\StringMethodsTask\StringMethodsTask\obj\Debug\net7.0\StringMethodsTask.genruntimeconfig.cache
+C:\Users\Huseyn\Desktop\C#\ClassroomTask\StringMethodsTask\StringMethodsTask\obj\Debug\net7.0\ref\StringMethodsTask.dll
